@@ -2,17 +2,13 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="HardcodedText">
-
     <item
         android:id="@+id/nav_rescan"
         android:title="Rescan lagu" />
-
     <item
         android:id="@+id/nav_settings"
         android:title="Pengaturan" />
-
     <item
         android:id="@+id/nav_logout"
         android:title="Keluar" />
-
 </menu>
